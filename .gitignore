@@ -1,3 +1,6 @@
 .gitignore
 Projects/
 Settings/
+readme.txt
+changelog.txt
+.gitattributes
